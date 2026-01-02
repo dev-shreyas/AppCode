@@ -1,4 +1,4 @@
-  version: 2.1
+version: 2.1
 
 jobs:
   build_and_push:
@@ -47,5 +47,3 @@ workflows:
       - Update_manifest:
           requires:
             - build_and_push
-      
-
