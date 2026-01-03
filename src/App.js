@@ -87,7 +87,7 @@ class App extends Component {
                         fontWeight: "bolder",
                     }}
                 >
-                    10WeeksofCloudOps - shreyas - TODO LIST
+                    10WeeksofCloudOps - shreyas B - TODO LIST
                 </Row>
   
                 <hr />
